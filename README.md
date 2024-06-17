@@ -40,7 +40,7 @@ All my projects are built from the ground up, from ideation and designing, to tr
 
 ### ⭐ Featured Projects
 
-#### JourneyLens
+#### **JourneyLens**
 
 **`Travel Social Media`** <br>
 I created this *full-stack* app, for people to showcase their travels around the world. Users can simply log in and go onto their profile to create a new post to show their friends what they've been up to.
@@ -48,14 +48,14 @@ I created this *full-stack* app, for people to showcase their travels around the
 <br>
 
 
-#### AutoMatcher
+#### **AutoMatcher**
 
 **`Car model comparison tool`** <br>
 I was in the market for a new car when I quickly realized that combing through thousands of different models and checking five different sites was going to take forever. So I created AutoMatcher, it pulls car data from an API in order to make it easy for the user to compare the specs of different makes and models.
 
 <br>
 
-#### WiseWealth
+#### **WiseWealth**
 
 **` Finanal Helper / Planner`** <br>
 Like lots of people my age, trying to understand exactly how this complex financial system works can be daunting and tiresome. It also doesn't help that some financial sites can be complete wrong, and others too complex for someone to grasp quickly. So I made an all-in-one shop for understanding things like: If you can afford and qualify for a mortgage, what is your actual take home pay, and how much is that new car *actually* going to cost you.
