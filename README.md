@@ -20,23 +20,24 @@ All my projects are built from the ground up, from ideation and designing, to tr
 
 ### 🔨 Quick Look at My Languages and Tools
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="HTML" width="30px" title="Advanced HTML and CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+ 
+<img align="left" alt="CSS" width="30px" title="Advanced HTML and CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" title="React.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Git" width="30px" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Linux" width="30px" title="Linux and it's CLI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Bash" width="30px" title="Basic Bash Scripting" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br> <br>
 
-<br />
 
 ---
 
@@ -45,7 +46,7 @@ All my projects are built from the ground up, from ideation and designing, to tr
 #### **JourneyLens**
 
 **`Travel Social Media`** <br>
-I created this *full-stack* app, for people to showcase their travels around the world. Users can simply log in and go onto their profile to create a new post to show their friends what they've been up to.
+I created this *full-stack* app, for people to showcase their travels around the world. Users can simply log in and go onto their profile to create a new post to show their friends what they've been up to and how their vacation is going.
 
 <br>
 
@@ -53,14 +54,14 @@ I created this *full-stack* app, for people to showcase their travels around the
 #### **AutoMatcher**
 
 **`Car model comparison tool`** <br>
-I was in the market for a new car when I quickly realized that combing through thousands of different models and checking five different sites was going to take forever. So I created AutoMatcher, it pulls car data from an API in order to make it easy for the user to compare the specs of different makes and models.
+I was in the market for a new car when I quickly realized that checking five different sites in order to comb through thousands of different models was going to take forever. So I created AutoMatcher, it pulls car data from an API in order to make it easy for the user to compare the specs of different makes and models.
 
 <br>
 
 #### **WiseWealth**
 
-**` Finanal Helper / Planner`** <br>
-Like lots of people my age, trying to understand exactly how this complex financial system works can be daunting and tiresome. It also doesn't help that some financial sites can be complete wrong, and others too complex for someone to grasp quickly. So I made an all-in-one shop for understanding things like: If you can afford and qualify for a mortgage, what is your actual take home pay, and how much is that new car *actually* going to cost you.
+**`Finanal Helper / Planner`** <br>
+Like lots of people my age, trying to understand exactly how this complex financial system works can be daunting and tiresome. It also doesn't help that some financial sites can be completely wrong, and others too complex for someone to grasp quickly. So I made an all-in-one shop for understanding things like: If you can afford and qualify for a mortgage, what is your actual take home pay, and how much is that new car *actually* going to cost you.
 
 ---
 
