@@ -1,6 +1,6 @@
-# 🦉 CorvusDev
+# 🦉 Hello, Friend
 
-**`Digital Craftsman`**
+**`CorvusDev, a digital craftsman`**
 
 I'm an indie front-end developer, doing my part to better the digital world one step at a time.<br>
 All my projects are built from the ground up, from ideation and designing, to trying to find that missing semicolon.
