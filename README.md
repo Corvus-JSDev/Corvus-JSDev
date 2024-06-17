@@ -59,3 +59,23 @@ I was in the market for a new car when I quickly realized that combing through t
 
 **` Finanal Helper / Planner`** <br>
 Like lots of people my age, trying to understand exactly how this complex financial system works can be daunting and tiresome. It also doesn't help that some financial sites can be complete wrong, and others too complex for someone to grasp quickly. So I made an all-in-one shop for understanding things like: If you can afford and qualify for a mortgage, what is your actual take home pay, and how much is that new car *actually* going to cost you.
+
+---
+
+<details>
+<summary> <h3>🧭 My Coding Journey and How I Fell in Love With Web Development</h3> </summary>
+I started getting into programming when I was 12 years old, when my cousin gave me his old Raspberry Pi. At the time, I had no idea what it was or what I could do with it, but I knew I loved it. So, like any kid, I searched YouTube for hours to try and find a use for it, but all I could find was super complex servers and crypto miners. Little did I realize, this would be the kindle that created an inferno. Eventually I found a tutorial that connected some LEDs and used code to make pretty flashing colors. The language was Python, my first ever coding experience. It went horrible, as you could imagination. Giving a 12-year-old a language he's never touched and jumping into a whole new ecosystem that - as of 3 days ago - he didn't even know existed, maybe wasn't the best decision; But this beautiful disaster was the start of a long-running obsession.
+<br> <br>
+I've been fortunate enough to play around with lots of different things, from photography, video editing, 3d art, sports, and game development, to even planning on opening my own restaurant, but none of them were ever truly satisfying. Ever since I got those LEDs to flash on and off, programming has always been in the back of my mind, and I knew that coding was what I wanted to do. There was just one bug. I couldn't go from a backyard script kiddie, to a robotics software engineer. That's when I discovered web development. This path could give me the professional experience and skills that I couldn't get from any online bootcamp, and I'd be doing what I loved - creating tangible things people could interact with.
+</details>
+
+
+
+
+
+
+
+
+
+
+
