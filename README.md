@@ -36,6 +36,8 @@ All my projects are built from the ground up, from ideation and designing, to tr
 
 <img align="left" alt="Bash" width="30px" title="Basic Bash Scripting" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
+<br>
+> Checkout my portfolio [Corvus.dev](https://www.corvus.dev) for a full list
 <br> <br>
 
 
