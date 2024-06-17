@@ -3,7 +3,7 @@
 **`Digital Craftsman`**
 
 I'm an indie front-end developer, doing my part to better the digital world one step at a time.<br>
-All my projects are built from the ground up, from ideation and designing, to trying to find the missing semicolon.
+All my projects are built from the ground up, from ideation and designing, to trying to find that missing semicolon.
 
    <p align="left">
 		   <a href="https://www.linkedin.com/in/giovanni-squillace-42813a22b/">
@@ -14,30 +14,48 @@ All my projects are built from the ground up, from ideation and designing, to tr
 		  <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/badge/-Follow_Me-3b4042?style=for-the-badge&logo=github"/></a> 
    </p>
 
+---
+
+### 🔨 Quick Look at My Languages and Tools
+
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+
+<br />
+
+---
+
+### ⭐ Featured Projects
+
+#### JourneyLens
+
+**`Travel Social Media`** <br>
+I created this *full-stack* app, for people to showcase their travels around the world. Users can simply log in and go onto their profile to create a new post to show their friends what they've been up to.
+
+<br>
 
 
+#### AutoMatcher
 
+**`Car model comparison tool`** <br>
+I was in the market for a new car when I quickly realized that combing through thousands of different models and checking five different sites was going to take forever. So I created AutoMatcher, it pulls car data from an API in order to make it easy for the user to compare the specs of different makes and models.
 
+<br>
 
+#### WiseWealth
 
-
-
-
-
-
-
-
-<!--
-**Corvus-JSDev/Corvus-JSDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**` Finanal Helper / Planner`** <br>
+Like lots of people my age, trying to understand exactly how this complex financial system works can be daunting and tiresome. It also doesn't help that some financial sites can be complete wrong, and others too complex for someone to grasp quickly. So I made an all-in-one shop for understanding things like: If you can afford and qualify for a mortgage, what is your actual take home pay, and how much is that new car *actually* going to cost you.
