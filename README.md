@@ -38,7 +38,7 @@ All my projects are built from the ground up, from ideation and designing, to tr
 
 <br> <br>
 
-> Checkout my portfolio [Corvus.dev](https://www.corvus.dev) for a **full** list
+> Checkout my portfolio [Corvus.dev](https://www.corvus.dev) for a **full** list.
 
 
 
@@ -71,7 +71,7 @@ Like lots of people my age, trying to understand exactly how this complex financ
 #### **Corvus.dev**
 
 **`Portfolio`** <br>
-Of course, it wouldn't be a featured page without the classic portfolio.
+Of course, it wouldn't be a features section without the classic portfolio.
 
 ---
 
