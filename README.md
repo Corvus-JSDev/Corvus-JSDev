@@ -63,7 +63,7 @@ I was in the market for a new car when I quickly realized that checking five dif
 
 #### **WiseWealth**
 
-**`Finanal Helper / Planner`** <br>
+**`financial Helper / Planner`** <br>
 Like lots of people my age, trying to understand exactly how this complex financial system works can be daunting and tiresome. It also doesn't help that some financial sites can be completely wrong, and others too complex for someone to grasp quickly. So I made an all-in-one shop for understanding things like: If you can afford and qualify for a mortgage, what is your actual take home pay, and how much is that new car *actually* going to cost you.
 
 <br>
