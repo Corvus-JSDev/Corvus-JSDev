@@ -46,7 +46,7 @@ All my projects are built from the ground up, from ideation and designing, to tr
 
 ### ⭐ Featured Projects
 
-#### **JourneyLens**
+#### <a href="https://github.com/Corvus-JSDev/JourneyLens/tree/main">**JourneyLens**</a>
 
 **`Travel Social Media`** <br>
 I created this *full-stack* app, for people to showcase their travels around the world. Users can simply log in and go onto their profile to create a new post to show their friends what they've been up to and how their vacation is going.
