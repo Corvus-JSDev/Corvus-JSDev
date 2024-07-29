@@ -68,7 +68,7 @@ I was in the market for a new car when I quickly realized that checking five dif
 
 <br>
 
-### <a href="https://corvus.dev">Corvus.Dev</a>
+### <a href="https://giovanni-squillace-portfolio.netlify.app/">Corvus.Dev</a>
 
 **`Portfolio`** <br>
 Of course, it wouldn't be a features section without the classic portfolio.
