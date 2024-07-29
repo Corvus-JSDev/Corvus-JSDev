@@ -38,7 +38,7 @@ All my projects are built from the ground up, from ideation and designing, to tr
 
 <br> <br>
 
-> Checkout my portfolio [Corvus.dev](https://giovanni-squillace-portfolio.netlify.app/#skills) for a **full** list.
+> Checkout my portfolio [Corvus.dev](https://giovanni-squillace-portfolio.netlify.app) for a **full** list.
 
 
 
