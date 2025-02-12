@@ -92,25 +92,25 @@ This analysis examines stock performances of the top 100 companies across 9 indu
 
 ## 📎 Accessory Projects
 
-### <a href="https://github.com/Corvus-JSDev/JourneyLens/tree/main">JourneyLens</a>
 
-**`Travel Social Media Site`** <br>
-I created this *full-stack* app, for people to showcase their travels around the world. Users can simply log in and go onto their profile to create a new post to show their friends what they've been up to and how their vacation is going.
+### <a href="https://github.com/Corvus-JSDev/AutoMatcher"> AutoMatcher </a> 
+
+**`Car Comparison Tool`** <br>
+I was in the market for a new car when I quickly realized that checking five different sites in order to comb through thousands of different models was going to take forever. So I created AutoMatcher, it pulls car data from an API in order to make it easy for the user to compare the specs of different makes and models.
 
 <br>
 
-### <a href="https://github.com/Corvus-JSDev/WiseWealth">WiseWealth</a> 
+### <a href="https://github.com/Corvus-JSDev/WiseWealth"> WiseWealth </a> 
 
 **`Financial Planner`** <br>
 Like lots of people my age, trying to understand exactly how this complex financial system works can be daunting and tiresome. It also doesn't help that some financial sites can be completely wrong, and others are too complex for someone to grasp quickly. So I made an all-in-one shop for understanding things like: If you can afford and qualify for a mortgage, what is your actual take-home pay, what is your debt-to-income ratio, and how much is that new car actually going to cost you.
 
 <br>
 
-### <a href="https://github.com/Corvus-JSDev/AutoMatcher">AutoMatcher</a> 
+### <a href="https://github.com/Corvus-JSDev/JourneyLens/tree/main"> JourneyLens </a>
 
-
-**`Car Comparison Tool`** <br>
-I was in the market for a new car when I quickly realized that checking five different sites in order to comb through thousands of different models was going to take forever. So I created AutoMatcher, it pulls car data from an API in order to make it easy for the user to compare the specs of different makes and models.
+**`Travel Social Media Site`** <br>
+I created this *full-stack* app, for people to showcase their travels around the world. Users can simply log in and go onto their profile to create a new post to show their friends what they've been up to and how their vacation is going.
 
 
 
