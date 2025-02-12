@@ -16,7 +16,7 @@
 
 <br>
 
-## 🔨 Quick Look At My Skills
+## 🎯 Quick Look At My Skills
 
 <img align="left" alt="HTML" width="30px" title="Tableau" src="https://nextviewconsulting.com/sites/default/files/styles/large/public/icons/logo-tableau-cirkel.png?itok=CsAZTLUk" />
 
@@ -39,7 +39,7 @@
 
 <br>
 
-## ⭐ Featured Projects
+## 🏆 Featured Projects
 
 ### <a href="https://github.com/Corvus-JSDev/restaurants_health_and_safety_app"> DineSafe </a>
 
