@@ -17,31 +17,57 @@
 
 ### 🔨 Quick Look at My Languages and Tools
 
-<img align="left" alt="HTML" width="30px" title="Advanced HTML and CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="HTML" width="30px" title="Tableau" src="https://nextviewconsulting.com/sites/default/files/styles/large/public/icons/logo-tableau-cirkel.png?itok=CsAZTLUk" />
+
+<img align="left" alt="HTML" width="30px" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
  
-<img align="left" alt="CSS" width="30px" title="Advanced HTML and CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-
-<img align="left" alt="JavaScript" width="30px" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-
-<img align="left" alt="React" width="30px" title="React.js" src="https://cdn.jsdelivr.net/gh/decons/devicon/icons/vicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="CSS" width="30px" title="Pandas (python)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
 
 <img align="left" alt="Git" width="30px" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-<img align="left" alt="GitHub" width="30px" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Linux" width="30px" title="Linux CLI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
-<img align="left" alt="Linux" width="30px" title="Linux and it's CLI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
-<img align="left" alt="Bash" width="30px" title="Basic Bash Scripting" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Bash" width="30px" title="Bash Scripting" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
 <br> <br>
 
-> Checkout my portfolio [Corvus.dev](https://giovanni-squillace-portfolio.netlify.app) for a **full** list.
+> Checkout my portfolio ***[Corvus.dev](https://giovanni-squillace-portfolio.netlify.app)*** for the full list.
 
 
 
 ---
 
 ### ⭐ Featured Projects
+
+### <a href="https://github.com/Corvus-JSDev/restaurants_health_and_safety_app"> DineSafe </a>
+
+**`Restaurant Health and Safety Web App`** <br>
+This web application aggregates restaurant health inspection data from various government databases, allowing users to easily assess cleanliness and safety standards.
+> Data cleaning and aggregation - UI/UX and visualization - Research and analytical skills - API and SQL database integration - Mathematical Algorithms - Python, Pandas, SQLite3, and CensusData
+
+<br>
+
+### <a href="https://github.com/Corvus-JSDev/Is-the-American-Dream-Dead-Research-Paper-"> State of the American Dream </a>
+
+**`Research Paper`** <br>
+This project investigates the current relevance of the American Dream, focusing on generation perspectives and factors like cost of living and crime rates.
+> Data cleaning and aggregation - Visualization - Credible data sourcing - Tableau, Python, Pandas, and CensusData - Contribution to the field
+
+<br>
+
+### <a href="https://github.com/Corvus-JSDev/Data_Analysis___Company_And_Industry_Stock_Performance"> Stock Industry Performance Insight </a>
+
+**`Research Paper`** <br>
+This analysis examines stock performances of the top 100 companies across 9 industries to identify market trends and inform investment strategies.
+> Data cleaning and aggregation - Visualization - Financial research and analytical skills - Investment Strategies - Python, Pandas, MatPlotLib and Seaborn, JupyterLab, and Yahoo Finance
+
+<br>
+
+
+
+
+
+
 
 ### <a href="https://github.com/Corvus-JSDev/JourneyLens/tree/main">JourneyLens</a>
 
