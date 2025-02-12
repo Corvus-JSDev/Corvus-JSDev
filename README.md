@@ -1,9 +1,6 @@
 ## 🤖 hellofriend.mov
 
-**`Digital Craftsman`**
-
-I'm an indie front-end developer, doing my part to better the digital world one step at a time.<br>
-All my projects are built from the ground up, from ideation and designing, to trying to find that missing semicolon.
+**`Data Analysis + Programmer`**
 
    <p align="left">
 	   <a target="_blank" href="https://www.linkedin.com/in/giovanni-squillace-42813a22b/">
@@ -26,7 +23,7 @@ All my projects are built from the ground up, from ideation and designing, to tr
 
 <img align="left" alt="JavaScript" width="30px" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
-<img align="left" alt="React" width="30px" title="React.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="React" width="30px" title="React.js" src="https://cdn.jsdelivr.net/gh/decons/devicon/icons/vicons/devicon/icons/react/react-original.svg" />
 
 <img align="left" alt="Git" width="30px" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
