@@ -16,7 +16,7 @@
 
 <br>
 
-## 🎯 Quick Look At My Skills
+## 🔨 Quick Look At My Skills
 
 <img align="left" alt="HTML" width="30px" title="Tableau" src="https://nextviewconsulting.com/sites/default/files/styles/large/public/icons/logo-tableau-cirkel.png?itok=CsAZTLUk" />
 
