@@ -14,6 +14,13 @@
    </p>
 
 
+
+
+
+
+
+
+
 <br>
 
 ## 🔨 Quick Look At My Skills
@@ -33,6 +40,13 @@
 <br> <br>
 
 > Checkout my portfolio ***[Corvus.dev](https://giovanni-squillace-portfolio.netlify.app)*** for the full list.
+
+
+
+
+
+
+
 
 
 
@@ -57,11 +71,22 @@ This project investigates the current relevance of the American Dream, focusing 
 
 <br>
 
-### <a href="https://github.com/Corvus-JSDev/Data_Analysis___Company_And_Industry_Stock_Performance"> Stock Industry Performance Insight </a>
+### <a href="https://github.com/Corvus-JSDev/Data_Analysis___Company_And_Industry_Stock_Performance"> Industry Performance Insight </a>
 
 **`Research Paper`** <br>
 This analysis examines stock performances of the top 100 companies across 9 industries to identify market trends and inform investment strategies.
 > Data cleaning and aggregation - Visualization - Financial research and analytical skills - Investment Strategies - Python, Pandas, MatPlotLib and Seaborn, JupyterLab, and Yahoo Finance
+
+
+
+
+
+
+
+
+
+
+
 
 <br>
 
