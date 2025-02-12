@@ -59,7 +59,7 @@
 
 **`Restaurant Health and Safety Web App`** <br>
 This web application aggregates restaurant health inspection data from various government databases, allowing users to easily assess cleanliness and safety standards.
-> Data cleaning and aggregation - UI/UX and visualization - Research and analytical skills - API and SQL database integration - Mathematical Algorithms - Python, Pandas, SQLite3, and CensusData
+> Data cleaning and aggregation - UI/UX and visualization - API and SQL database integration - Mathematical Algorithms - Python, Pandas, SQLite3, and CensusData
 
 <br>
 
@@ -67,7 +67,7 @@ This web application aggregates restaurant health inspection data from various g
 
 **`Research Paper`** <br>
 This project investigates the current relevance of the American Dream, focusing on generation perspectives and factors like cost of living and crime rates.
-> Data cleaning and aggregation - Visualization - Credible data sourcing - Tableau, Python, Pandas, and CensusData - Contribution to the field
+> Data cleaning and aggregation - Visualization - Credible data sourcing - Research and analytical skills - Tableau, Python, Pandas, and CensusData - Contribution to the field
 
 <br>
 
