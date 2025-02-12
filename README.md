@@ -4,7 +4,7 @@
 
    <p align="left">
 	   <a target="_blank" href="https://www.linkedin.com/in/giovanni-squillace-42813a22b/">
-		   <img  alt="link to twitter" title="Follow me on Twitter" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-1c82ef?style=for-the-badge&logo=icons8-linkedin737373"/></a>
+		   <img  alt="link to twitter" title="Check out my Linkedin" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-1c82ef?style=for-the-badge&logo=icons8-linkedin737373"/></a>
 	   &nbsp;&nbsp;&nbsp;
 	   <a target="_blank" href="https://twitter.com/Corvus_JSDev">
 		   <img alt="link to twitter" title="Follow me on Twitter" src="https://custom-icon-badges.demolab.com/badge/-Twitter-5ab0f7?style=for-the-badge&logo=icons8-twitterx2"/></a>
