@@ -65,7 +65,7 @@ This analysis examines stock performances of the top 100 companies across 9 indu
 
 <br>
 
-## ⭐ Accessory Projects
+## 📎 Accessory Projects
 
 ### <a href="https://github.com/Corvus-JSDev/JourneyLens/tree/main">JourneyLens</a>
 
