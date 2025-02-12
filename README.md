@@ -13,9 +13,10 @@
 		   <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/badge/-Follow_Me-3b4042?style=for-the-badge&logo=github"/></a> 
    </p>
 
----
 
-### 🔨 Quick Look at My Languages and Tools
+<br>
+
+## 🔨 Quick Look At My Skills
 
 <img align="left" alt="HTML" width="30px" title="Tableau" src="https://nextviewconsulting.com/sites/default/files/styles/large/public/icons/logo-tableau-cirkel.png?itok=CsAZTLUk" />
 
@@ -35,9 +36,10 @@
 
 
 
----
 
-### ⭐ Featured Projects
+<br>
+
+## ⭐ Featured Projects
 
 ### <a href="https://github.com/Corvus-JSDev/restaurants_health_and_safety_app"> DineSafe </a>
 
@@ -63,11 +65,7 @@ This analysis examines stock performances of the top 100 companies across 9 indu
 
 <br>
 
-
-
-
-
-
+## ⭐ Accessory Projects
 
 ### <a href="https://github.com/Corvus-JSDev/JourneyLens/tree/main">JourneyLens</a>
 
@@ -88,13 +86,6 @@ Like lots of people my age, trying to understand exactly how this complex financ
 
 **`Car model comparison tool`** <br>
 I was in the market for a new car when I quickly realized that checking five different sites in order to comb through thousands of different models was going to take forever. So I created AutoMatcher, it pulls car data from an API in order to make it easy for the user to compare the specs of different makes and models.
-
-<br>
-
-### <a href="https://giovanni-squillace-portfolio.netlify.app/">Corvus.Dev</a>
-
-**`Portfolio`** <br>
-Of course, it wouldn't be a features section without the classic portfolio.
 
 
 
