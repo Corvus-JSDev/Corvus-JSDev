@@ -25,11 +25,13 @@
 
 ## 🔨 Quick Look At My Skills
 
-<img align="left" alt="HTML" width="30px" title="Tableau" src="https://nextviewconsulting.com/sites/default/files/styles/large/public/icons/logo-tableau-cirkel.png?itok=CsAZTLUk" />
+<img align="left" alt="tableau" width="30px" title="Tableau" src="https://nextviewconsulting.com/sites/default/files/styles/large/public/icons/logo-tableau-cirkel.png?itok=CsAZTLUk" />
 
-<img align="left" alt="HTML" width="30px" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="python" width="30px" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
  
-<img align="left" alt="CSS" width="30px" title="Pandas (python)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+<img align="left" alt="pandas" width="30px" title="Pandas (python)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+
+<img align="left" alt="Excel" width="30px" title="Excel" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2022%2F02%2FMicrosoft-Excel-Logo.png&f=1&nofb=1&ipt=7f6e832b3cd44fc606752de962057a3d9793678b6b2d94681cd24889827ebc0f&ipo=images" />
 
 <img align="left" alt="Git" width="30px" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
