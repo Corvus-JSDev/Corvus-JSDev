@@ -43,7 +43,7 @@
 
 <br> <br>
 
-> Checkout my portfolio ***[Corvus.dev](https://giovanni-squillace-portfolio.netlify.app)*** for the full list.
+> Checkout my portfolio ***[Corvus.dev](https://giovanni-squillace-portfolio.netlify.app/#skills)*** for the full list.
 
 
 
