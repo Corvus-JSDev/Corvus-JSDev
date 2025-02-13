@@ -31,7 +31,7 @@
  
 <img align="left" alt="pandas" width="30px" title="Pandas (python)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
 
-<img align="left" alt="Excel" width="30px" title="Excel" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2022%2F02%2FMicrosoft-Excel-Logo.png&f=1&nofb=1&ipt=7f6e832b3cd44fc606752de962057a3d9793678b6b2d94681cd24889827ebc0f&ipo=images" />
+<img align="left" alt="Excel" width="30px" title="Excel" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F022%2F100%2F783%2Fnon_2x%2Fmicrosoft-excel-logo-transparent-free-png.png&f=1&nofb=1&ipt=7449df91801e209dbc84b4718446d9408b376e3949634769e8d6bc063510b508&ipo=images" />
 
 <img align="left" alt="Git" width="30px" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
