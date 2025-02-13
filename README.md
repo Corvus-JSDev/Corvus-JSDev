@@ -63,7 +63,7 @@
 
 **`Restaurant Health and Safety Web App`** <br>
 This web application aggregates restaurant health inspection data from various government databases, allowing users to easily assess cleanliness and safety standards.
-> Data cleaning and aggregation - UI/UX and visualization - API and SQL database integration - Mathematical Algorithms - Python, Pandas, SQL, and CensusData
+> Data cleaning and aggregation - UI/UX and visualization - API and SQL database integration - Mathematical Algorithms - Python, Pandas, SQL, Streamlit, and CensusData
 
 <br>
 
