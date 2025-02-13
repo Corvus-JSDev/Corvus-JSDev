@@ -33,6 +33,8 @@
 
 <img align="left" alt="Excel" width="30px" title="Excel" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F022%2F100%2F783%2Fnon_2x%2Fmicrosoft-excel-logo-transparent-free-png.png&f=1&nofb=1&ipt=7449df91801e209dbc84b4718446d9408b376e3949634769e8d6bc063510b508&ipo=images" />
 
+<img align="left" alt="jupyter notebook" width="30px" title="Jupyter Notebook" src="https://duckduckgo.com/?q=jupyter+notebook+logo+transparent+&iax=images&ia=images&iai=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2021%2F01%2FJupyter_Logo-1748x2048.png" />
+
 <img align="left" alt="Git" width="30px" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <img align="left" alt="Linux" width="30px" title="Linux CLI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
