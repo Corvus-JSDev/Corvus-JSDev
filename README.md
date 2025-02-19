@@ -31,7 +31,7 @@
  
 <img align="left" alt="pandas" width="30px" title="Pandas (Python)" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpCB6Du8H6Lrm5WIbDcdW59uqoSiL-eeTlw&s" />
 
-<img align="left" alt="SQL" width="30px" title="SQL / SQL Server" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+<img align="left" alt="SQL" width="30px" title="SQL / MySQL" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" />
 
 <img align="left" alt="Excel" width="30px" title="Excel" src="https://clipart-library.com/images_k/excel-icon-transparent/excel-icon-transparent-1.png" />
 
