@@ -31,13 +31,15 @@
  
 <img align="left" alt="pandas" width="30px" title="Pandas (Python)" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpCB6Du8H6Lrm5WIbDcdW59uqoSiL-eeTlw&s" />
 
+<img align="left" alt="SQL" width="30px" title="SQL / SQL Server" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+
 <img align="left" alt="Excel" width="30px" title="Excel" src="https://clipart-library.com/images_k/excel-icon-transparent/excel-icon-transparent-1.png" />
 
 <img align="left" alt="jupyter notebook" width="30px" title="Jupyter Notebook" src="https://www.pngitem.com/pimgs/b/241-2413971_anaconda-png.png" />
 
 <img align="left" alt="Git" width="30px" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-<img align="left" alt="Linux" width="30px" title="Linux CLI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Linux CLI" width="30px" title="Linux CLI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 <img align="left" alt="Bash" width="30px" title="Bash Scripting" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
