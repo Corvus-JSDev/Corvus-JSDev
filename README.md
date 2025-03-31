@@ -1,6 +1,6 @@
 ## 🤖 hellofriend.mov
 
-**`Data Analysis + Programmer`**
+**`Data Analysis & Programmer`**
 
    <p align="left">
 	   <a target="_blank" href="https://www.linkedin.com/in/giovanni-squillace-42813a22b/">
@@ -23,7 +23,7 @@
 
 <br>
 
-## 🔨 Quick Look At My Skills
+## 🔨 Quick Look At My Skills And Stats
 
 <img align="left" alt="tableau" width="30px" title="Tableau" src="https://nextviewconsulting.com/sites/default/files/styles/large/public/icons/logo-tableau-cirkel.png?itok=CsAZTLUk" />
 
@@ -45,7 +45,14 @@
 
 <br> <br>
 
-> Checkout my portfolio ***[Corvus.dev](https://giovanni-squillace-portfolio.netlify.app/#skills)*** for the full list.
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=corvus-jsdev&theme=default&&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://nirzak-streak-stats.vercel.app/?user=corvus-jsdev&theme=default&&hide_border=true) 
+
 
 
 
@@ -114,9 +121,12 @@ Like lots of people my age, trying to understand exactly how this complex financ
 
 
 
+<br> <br>
 
+#### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=default&)
 
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
