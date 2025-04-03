@@ -39,6 +39,8 @@
 
 <img align="left" alt="Git" width="30px" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
+<img align="left" alt="Golang" width="30px" title="Golang" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/go/go-original-wordmark.svg" />
+
 <img align="left" alt="Linux CLI" width="30px" title="Linux CLI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 <img align="left" alt="Bash" width="30px" title="Bash Scripting" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
