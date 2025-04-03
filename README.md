@@ -21,6 +21,9 @@
 
 
 
+
+
+
 <br>
 
 ## 🔨 Quick Look At My Skills And Stats
@@ -52,9 +55,13 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=corvus-jsdev&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=corvus-jsdev&theme=transparent&hide_border=true)<br/>
+
 > Note: All of the Jupyter notes are python
 
-![](https://nirzak-streak-stats.vercel.app/?user=corvus-jsdev&theme=transparent&hide_border=true)<br/>
+<br>
+
+
 
 
 
@@ -118,6 +125,10 @@ I was in the market for a new car when I quickly realized that checking five dif
 
 **`Financial Planner`** <br>
 Like lots of people my age, trying to understand exactly how this complex financial system works can be daunting and tiresome. It also doesn't help that some financial sites can be completely wrong, and others are too complex for someone to grasp quickly. So I made an all-in-one shop for understanding things like: If you can afford and qualify for a mortgage, what is your actual take-home pay, what is your debt-to-income ratio, and how much is that new car actually going to cost you.
+
+
+
+
 
 
 
